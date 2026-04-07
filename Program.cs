@@ -1,5 +1,5 @@
 ﻿int a = 10, b = 6;
-
+a
 static int Penjumlahan(int a, int b)
 {
     return a + b;
